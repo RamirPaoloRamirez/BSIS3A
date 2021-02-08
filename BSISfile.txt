@@ -1,2 +1,3 @@
 Sample file
 First Edit
+Second Edit
