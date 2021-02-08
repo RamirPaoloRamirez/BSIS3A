@@ -1,3 +1,4 @@
 Sample file
 First Edit
 Second Edit
+Update From Branch 1
