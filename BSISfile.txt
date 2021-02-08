@@ -2,3 +2,4 @@ Sample file (here is an update from main)
 First Edit
 Second Edit
 Update From Branch 1
+Update from branch 2
